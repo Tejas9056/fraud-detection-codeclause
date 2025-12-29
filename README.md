@@ -1,4 +1,4 @@
-# 🚀 Fraud Detection in Credit Card Transactions  
+# 🚀 Fraud Detection 
 ### CodeClause Data Science Internship – Entry Level Project
 
 This project focuses on detecting fraudulent credit card transactions using a simple yet effective machine learning model.  
